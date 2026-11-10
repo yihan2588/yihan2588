@@ -11,6 +11,8 @@ I'm an M.S. Electrical Engineering student at Columbia University, specializing 
 
 Contributed to **[terminal-mac](https://github.com/govijr/terminal-mac)**, a macOS terminal tool with **2.5k+ GitHub stars**. [Merged contribution →](https://github.com/govijr/terminal-mac/pull/21)
 
+<br>
+
 ## Selected public work
 
 ### [FunnyLLM](https://github.com/yihan2588/FunnyLLM) — AI meme co-writer
